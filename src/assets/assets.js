@@ -44,7 +44,7 @@ export const assets = {
     stripe_logo,
 }
 
-export const product = [
+export const productsData = [
     {
         _id: "a",
         name: "Special Fried Rice With Chicken",
